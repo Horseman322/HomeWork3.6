@@ -1,13 +1,11 @@
-package com.example.homework35.component;
+package com.example.homework36.component;
 
-
-
-import com.example.homework35.entity.Avatar;
-import com.example.homework35.entity.Faculty;
-import com.example.homework35.entity.Student;
-import com.example.homework35.record.AvatarRecord;
-import com.example.homework35.record.FacultyRecord;
-import com.example.homework35.record.StudentRecord;
+import com.example.homework36.entity.Avatar;
+import com.example.homework36.entity.Faculty;
+import com.example.homework36.entity.Student;
+import com.example.homework36.record.AvatarRecord;
+import com.example.homework36.record.FacultyRecord;
+import com.example.homework36.record.StudentRecord;
 import org.springframework.stereotype.Component;
 
 @Component

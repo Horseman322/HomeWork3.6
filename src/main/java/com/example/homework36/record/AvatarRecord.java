@@ -1,4 +1,4 @@
-package com.example.homework35.record;
+package com.example.homework36.record;
 
 public class AvatarRecord {
 

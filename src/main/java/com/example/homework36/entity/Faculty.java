@@ -1,4 +1,4 @@
-package com.example.homework35.entity;
+package com.example.homework36.entity;
 
 import javax.persistence.*;
 import java.util.List;

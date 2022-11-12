@@ -1,4 +1,4 @@
-package com.example.homework35.record;
+package com.example.homework36.record;
 
 import javax.validation.constraints.NotBlank;
 

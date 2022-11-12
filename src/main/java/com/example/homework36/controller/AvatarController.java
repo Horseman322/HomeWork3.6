@@ -1,8 +1,7 @@
-package com.example.homework35.component.controller;
+package com.example.homework36.controller;
 
 
-import com.example.homework35.service.AvatarService;
-import org.springframework.core.io.FileSystemResource;
+import com.example.homework36.service.AvatarService;
 import org.springframework.data.util.Pair;
 import org.springframework.http.MediaType;
 import org.springframework.http.ResponseEntity;
