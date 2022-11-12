@@ -1,8 +1,8 @@
-package com.example.homework35.service;
+package com.example.homework36.service;
 
-import com.example.homework35.entity.Avatar;
-import com.example.homework35.exception.AvatarNotFoundException;
-import com.example.homework35.repository.AvatarRepository;
+import com.example.homework36.entity.Avatar;
+import com.example.homework36.exception.AvatarNotFoundException;
+import com.example.homework36.repository.AvatarRepository;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.data.util.Pair;
 import org.springframework.stereotype.Service;

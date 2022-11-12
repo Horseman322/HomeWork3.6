@@ -1,4 +1,4 @@
-package com.example.homework35.exception;
+package com.example.homework36.exception;
 
 public class FacultyNotFoundException extends RuntimeException {
 

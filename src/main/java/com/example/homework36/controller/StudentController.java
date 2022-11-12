@@ -1,15 +1,10 @@
-package com.example.homework35.component.controller;
+package com.example.homework36.controller;
 
 
-
-
-
-import com.example.homework35.record.FacultyRecord;
-import com.example.homework35.record.StudentRecord;
-import com.example.homework35.service.AvatarService;
-import com.example.homework35.service.StudentService;
+import com.example.homework36.record.FacultyRecord;
+import com.example.homework36.record.StudentRecord;
+import com.example.homework36.service.StudentService;
 import org.springframework.web.bind.annotation.*;
-import org.springframework.web.multipart.MultipartFile;
 
 import javax.validation.Valid;
 import java.util.Collection;

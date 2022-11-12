@@ -1,8 +1,8 @@
-package com.example.homework35.repository;
+package com.example.homework36.repository;
 
 
 
-import com.example.homework35.entity.Student;
+import com.example.homework36.entity.Student;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
